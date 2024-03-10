@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "MidProject"
+  navbar:
+    left:
+    - badgraph-1.qmd
+    
+format:
+  html:
+    theme: cosomo
